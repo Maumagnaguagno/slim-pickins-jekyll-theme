@@ -17,7 +17,11 @@ Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pick
 - Media at [media.md](media.md)
 - Links at [links.md](links.md)
 - Contact information at [contact.md](contact.md)
+- 404 pages redirect to [404.md](404.md)
+
+## Configuration
+- GitHub pages configuration file is [_config.yml](_config.yml)
+- CSS global variables are at [_sass/_variables.scss](_sass/_variables.scss)
 
 ## TODOs
 - Fill pages with info
-- Add publication bibtex information and PDFs
