@@ -39,7 +39,7 @@ permalink: /people/
 
 1. [Aurélio Tergolina Salton](http://lattes.cnpq.br/7181063742089743)
     - **Research subjects**: control, sesor fusion;
-    - **Institution**: [GACS](http://www.feng.pucrs.br/~gacs/) - PPGEE/FACIN - PUCRS University;
+    - **Institution**: [GACS](http://www.feng.pucrs.br/~gacs/) - PPGEE/FENG - PUCRS University;
     - **Project(s)**: [Autonomous Boat](../projects/project4.html);
     - **Papers**: NA
 1. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
