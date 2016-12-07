@@ -1,4 +1,4 @@
-# [disaster-robotics-proalertas.github.io](disaster-robotics-proalertas.github.io)
+# [disaster-robotics-proalertas.github.io](https://disaster-robotics-proalertas.github.io)
 **Organization website**
 
 Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pickins-jekyll-theme).
@@ -14,8 +14,14 @@ Based on [slim-pickins-jekyll-theme](https://github.com/chrisanthropic/slim-pick
   - Each project is described in detail in a Markdown file at [projects/](projects/)
 - Publications at [publications.md](publications.md) use a [BibBase](https://bibbase.org/) script 
   - Publication data is stored at [publications.bib](publications.bib)
+- Media at [media.md](media.md)
+- Links at [links.md](links.md)
 - Contact information at [contact.md](contact.md)
+- 404 pages redirect to [404.md](404.md)
+
+## Configuration
+- GitHub pages configuration file is [_config.yml](_config.yml)
+- CSS global variables are at [_sass/_variables.scss](_sass/_variables.scss)
 
 ## TODOs
 - Fill pages with info
-- Add publication bibtex information and PDFs

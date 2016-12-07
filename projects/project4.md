@@ -33,7 +33,7 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
 
 ### Coordinator
 
- - Alexandre Amory and Felipe Menegguzzi, PUCRS.
+ - Alexandre Amory and Felipe Meneguzzi, PUCRS.
 
 ### Academic Collaborators
 

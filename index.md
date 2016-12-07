@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 ---
 
 TODO add project description
@@ -12,7 +12,6 @@ TODO add project description
 ## Main areas of application:
 - Topic 1
 - Topic 2
-
 
 ## Interested students:
 
