@@ -11,7 +11,7 @@ Autonomous sail boat to monitor large bodies of water and oceans.
 
 | | | |
 | --- | --- | --- |
-| ![sail boat](../images/sail-boat.png "sail boat") |  ![electronics](../images/electronics.png "electronics") | ![sensors](../images/sensor.png "sensors") |
+| ![sail boat](../images/icons/sail-boat.png "sail boat") |  ![electronics](../images/icons/electronics.png "electronics") | ![sensors](../images/icons/sensor.png "sensors") |
 
 
 ### Goals

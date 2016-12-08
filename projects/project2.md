@@ -11,7 +11,7 @@ This project combines historical flooding data, digital elevation map, drainage 
 
 | | | | |
 | --- | --- | --- | --- |
-| ![alerts](../images/alert.png "generates alerts") |  ![mobile app](../images/mob-app.png "mobile app") | ![GIS](../images/geo.png "GIS app")  | ![sensors](../images/sensor.png "sensors") |
+| ![alerts](../images/icons/alert.png "generates alerts") |  ![mobile app](../images/icons/mob-app.png "mobile app") | ![GIS](../images/icons/geo.png "GIS app")  | ![sensors](../images/icons/sensor.png "sensors") |
 
 
 ### Goals

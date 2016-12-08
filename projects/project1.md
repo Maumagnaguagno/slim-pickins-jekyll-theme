@@ -11,9 +11,9 @@ Combine the technology created in the other projects into a single system and cr
 
 | | | | |
 | --- | --- | --- | --- |
-| ![alerts](../images/alert.png "generates alerts") |   ![rescue](../images/rescue.png "for rescue") | ![mobile app](../images/mob-app.png "mobile app") |  ![sensors](../images/sensor.png "sensors") |
-|![drone](../images/drone.png "drone") |  ![land robot](../images/land-robot.png "land robot") | ![sail boat](../images/sail-boat.png "sail boat")  | ![electronics](../images/electronics.png "electronics")  |
-| ![AI](../images/ia.png "AI") |  ![planning](../images/planning.png "planning") |  ![GIS](../images/geo.png "GIS app")   |  |
+| ![alerts](../images/icons/alert.png "generates alerts") |   ![rescue](../images/icons/rescue.png "for rescue") | ![mobile app](../images/icons/mob-app.png "mobile app") |  ![sensors](../images/icons/sensor.png "sensors") |
+|![drone](../images/icons/drone.png "drone") |  ![land robot](../images/icons/land-robot.png "land robot") | ![sail boat](../images/icons/sail-boat.png "sail boat")  | ![electronics](../images/icons/electronics.png "electronics")  |
+| ![AI](../images/icons/ia.png "AI") |  ![planning](../images/icons/planning.png "planning") |  ![GIS](../images/icons/geo.png "GIS app")   |  |
 
 ### Goals
 

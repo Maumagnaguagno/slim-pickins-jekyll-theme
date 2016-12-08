@@ -7,11 +7,11 @@ title: Autonomous Boat
 
 Small autonomous boat to monitor shallow streams of water and small/medium rivers. 
 
-![Alt text](../images/lutra.png?raw=true "Lutra Airboat")
+![Alt text](../images/projects/lutra.png?raw=true "Lutra Airboat")
 
 | | | |
 | --- | --- | --- |
-| ![small boat](../images/sail-boat.png "small boat") |  ![electronics](../images/electronics.png "electronics") | ![sensors](../images/sensor.png "sensors") |
+| ![small boat](../images/icons/sail-boat.png "small boat") |  ![electronics](../images/icons/electronics.png "electronics") | ![sensors](../images/icons/sensor.png "sensors") |
 
 ### Goals
 
