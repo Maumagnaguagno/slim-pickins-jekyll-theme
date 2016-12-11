@@ -8,7 +8,7 @@ permalink: /links/
 
 
  - [Machine Intelligence and Robotics (MIR)](https://mir-pucrs.github.io/) - PUCRS
- - [Autonomous System Lab (LSA)](http://lsa.pucrs.br/) - PUCRS
+ - [Autonomous System Lab (LSA)](https://lsa-pucrs.github.io/) - PUCRS
  - [Semantic, Multi-Agent, and Robotic Technologies (SMART)](https://smart-pucrs.github.io/) - PUCRS
  - [Grupo de Automação e Controle de Sistemas (GACS)](http://www.feng.pucrs.br/~gacs/) - PUCRS
  - [Laboratório de Pesquisas em Fotogrametria (LAFOTO)](https://www.ufrgs.br/lafoto/) - UFRGS
