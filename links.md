@@ -18,7 +18,7 @@ permalink: /links/
 
 ## Related Projects 
  
-- PVE Felipe
+- [Autonomous environmental monitoring boats](https://lsa-pucrs.github.io/projects/pve-boats), PUCRS
 
 ## More on Robots for Disaster
 
@@ -31,5 +31,3 @@ permalink: /links/
 
 - [CAPES Pró-Alertas](http://www.capes.gov.br/bolsas/programas-especiais/pro-alertas)
 - [Platypus autonomous boats](http://senseplatypus.com/)
-
- 
