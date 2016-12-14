@@ -13,7 +13,7 @@ permalink: /links/
  - [Grupo de Automação e Controle de Sistemas (GACS)](http://www.feng.pucrs.br/~gacs/) - PUCRS
  - [Laboratório de Pesquisas em Fotogrametria (LAFOTO)](https://www.ufrgs.br/lafoto/) - UFRGS
  - [Multiagent Lab](http://www.ufsc.br) - UFSC
- - UFRN
+ - [Laboratório Natalnet](http://www.natalnet.br) - UFRN
 
 
 ## Related Projects 

@@ -16,7 +16,7 @@ permalink: /people/
 
 2. [Luiz Marcos Garcia Gonçalves](http://lattes.cnpq.br/1562357566810393)
     - **Research subjects**: embedded system, computer vision, robotics, control;
-    - **Institution**: ???? Labs - [DCA](http://www.dca.ufrn.br/) - [UFRN University](http:/www.ufrn.br/);
+    - **Institution**: [Laboratório Natalnet](http://www.natalnet.br) - [DCA](http://www.dca.ufrn.br/) - [UFRN University](http:/www.ufrn.br/);
     - **Role**: Local coordinator;
     - **Project(s)**: [Autonomous Sail Boat](projects/project3.md),[Autonomous UAV](projects/project5.md);
     - **Papers**: NA.
@@ -67,13 +67,13 @@ permalink: /people/
 
 ### Pos-Doc
 
-1. 
-    - **Degree**: 
-    - **Advisors**: 
+1. [Justo Emilio Alvarez Jácobo](lattes.cnpq.br/6626922380758460)
+    - **Degree**: PhD in Mechanic Engineering - UNICAMP
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
     - **Monography title**: 
-    - **Project(s)**:
-    - **Conclusion date**: 
-    - **Papers**: NA 
+    - **Project(s)**: 
+    - **Conclusion date**:
+    - **Papers**: NA
 
 ### PhD
 
@@ -105,6 +105,21 @@ permalink: /people/
     - **Project(s)**: [Planning for Agents](projects/project6.md)
     - **Conclusion date**: Mar/2020
     - **Papers**: NA
+1. [Petrúcio Ricardo Tavares de Medeiros](http://lattes.cnpq.br/0470168287417678)
+    - **Degree**: PhD in Computer Engineering - UFRN
+    - **Advisors**: Luiz Marcos
+    - **Monography title**: Renderização Multifoveada de Ambiente Sobrevoado
+    - **Project(s)**: Luiz Marcos Garcia Gonçalves
+    - **Conclusion date**: Jul/2020
+    - **Papers**: NA
+1. [Davi Henrique dos Santos](http://lattes.cnpq.br/5492310878477548)
+    - **Degree**: PhD in Computer Engineering - UFRN
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
+    - **Monography title**: Sistema de navegação para veleiros robóticos
+    - **Project(s)**: 
+    - **Conclusion date**: Jul/2020
+    - **Papers**: NA
+
     
 ### Master
 
