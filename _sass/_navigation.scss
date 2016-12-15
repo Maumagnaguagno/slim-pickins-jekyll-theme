@@ -11,7 +11,6 @@
 
 // Navbar wrap
 .navbar {
-  height: $navbar-height;
   background-color: $navbar-color;
 }
 
@@ -265,7 +264,7 @@
 	
 	.navbar {
 	  background-color: $navbar-color;
-	  height: 44px;
+	  height: $navbar-height;
 	  display: inline;
 	}
  
