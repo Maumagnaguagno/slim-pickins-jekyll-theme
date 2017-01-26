@@ -119,7 +119,6 @@ permalink: /people/
     - **Project(s)**: 
     - **Conclusion date**: Jul/2020
     - **Papers**: NA
-
     
 ### Master
 
@@ -196,15 +195,7 @@ permalink: /people/
     - **Project(s)**: [Poa Flooding](projects/project2.md)
     - **Conclusion date**: 
     - **Papers**: NA
-1. 
-    - **Degree**: Undergradute student in Geography - PUCRS
-    - **Advisors**: 
-    - **Monography title**: 
-    - **Project(s)**:
-    - **Conclusion date**: 
-    - **Papers**: NA
-
 
 ## Main Collaborators
-- Foo person
-  - Bar link
+
+- NA
