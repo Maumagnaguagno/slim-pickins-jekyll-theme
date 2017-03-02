@@ -7,6 +7,10 @@ Robots are been used worldwide as an effective tool for disaster response and pr
 The goal of this project is to build an integrated system to control a team of heterogeneous robots (aerial, boats, land) 
 and alert systems.
 
+The figure below shows an overview of the system using two agents (UAV and USV) and an intelligent sensor.
+
+<img src="../images/integrated_system.png" alt=""/>
+
 ## Main topics of interest:
 - hardware, control, middleware, computer vision for robotics
 - path planning methods
