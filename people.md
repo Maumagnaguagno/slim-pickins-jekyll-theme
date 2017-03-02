@@ -43,7 +43,7 @@ permalink: /people/
     - **Project(s)**: [Autonomous Boat](projects/project4.md);
     - **Papers**: NA
 1. [Felipe Meneguzzi](http://lattes.cnpq.br/5973550650941724)
-    - **Research subjects**: ;
+    - **Research subjects**: automated planning, plan recognition, normative reasoning, agent deliberation;
     - **Institution**: [MIR](https://mir-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Planning for Agents](projects/project6.md), [Autonomous Boat](projects/project4.md);
     - **Papers**: NA
