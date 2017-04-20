@@ -9,7 +9,7 @@ permalink: /people/
 
 1. [Alexandre de Morais Amory](http://lattes.cnpq.br/2609000874577720)
     - **Research subjects**: embedded system, robotic middleware, system integration, fault tolerance;
-    - **Institution**: Autonomous System Labs(LSA) - [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
+    - **Institution**: [Autonomous System Lab (LSA)](https://lsa-pucrs.github.io/) - [MIR](https://mir-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
     - **Role**: Main coordinator;
     - **Project(s)**: [Master Project](projects/project1.md), [Poa Flooding](projects/project2.md), [Autonomous Boat](projects/project4.md);
     - **Papers**: NA.
@@ -49,7 +49,7 @@ permalink: /people/
     - **Papers**: NA
 1. [Isabel Harb Manssour](http://lattes.cnpq.br/4904489502853690)
     - **Research subjects**: ;
-    - **Institution**: Autonomous System Labs(LSA) - PPGCC/FACIN - PUCRS University;
+    - **Institution**: [Autonomous System Lab (LSA)](https://lsa-pucrs.github.io/) - PPGCC/FACIN - PUCRS University;
     - **Project(s)**: [Autonomous Boat](projects/project4.md);
     - **Papers**: NA
 1. [Rafael Bordini](http://lattes.cnpq.br/4589262718627942)
