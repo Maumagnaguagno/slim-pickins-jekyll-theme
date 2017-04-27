@@ -74,6 +74,13 @@ permalink: /people/
     - **Project(s)**: 
     - **Conclusion date**:
     - **Papers**: NA
+2. [Vitor Augusto Machado Jorge](lattes.cnpq.br/3206235048453355)
+    - **Degree**: PhD in Computing (SLAM) - UFRGS
+    - **Advisors**: Alexandre de Morais Amory
+    - **Monography title**: 
+    - **Project(s)**: 
+    - **Conclusion date**:
+    - **Papers**: NA
 
 ### PhD
 
