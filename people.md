@@ -81,6 +81,11 @@ permalink: /people/
     - **Project(s)**: 
     - **Conclusion date**:
     - **Papers**: NA
+3. [Roger Leitzke Granada](http://lattes.cnpq.br/8302681523696256)
+    - **Research subjects**: ;
+    - **Institution**: [Autonomous System Lab (LSA)](https://lsa-pucrs.github.io/) - [PPGCC](http://www.pucrs.br/facin/ppgcc/)/[FACIN](http://www.pucrs.br/facin) - [PUCRS University](http://www.pucrs.br/);
+    - **Project(s)**: [Autonomous Boat](projects/project4.md);
+    - **Papers**: NA
 
 ### PhD
 
