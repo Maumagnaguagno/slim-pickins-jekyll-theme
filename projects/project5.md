@@ -49,6 +49,7 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
 
 ## Main Hardware Resources
 
+### UFSC UAV
  - [BeagleBone Black](https://beagleboard.org/black)
  - [PixHawk controller board](https://pixhawk.org/)
  - WiFi module ESP8266
