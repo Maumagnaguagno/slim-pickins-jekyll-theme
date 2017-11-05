@@ -25,23 +25,19 @@ A prototype of the multi-agent planner is already in testing, and a demonstratio
 
  - Milestone 1: brief description; status (%)
 
-
 ## People
 
 ### Coordinator
-
- - ???
-
-### Academic Collaborators
-
  - Rafael Bordini, PUCRS.
  - Felipe Meneguzzi, PUCRS.
  - Jomi Hübner, UFSC.
 
+### Academic Collaborators
+ - Alexandre Amory
+
 ### Students
 
  - Anderson Nascimento, Master student on Computer Science/PUCRS, advised by Felipe Meneguzzi.
- - Guilherme  Villagran Barreto de Azevedo, Master student on Computer Science/PUCRS, advised by Felipe Meneguzzi.
  - Maurício Cecílio Magnaguagno,  PhD student on Computer Science/PUCRS, advised by Felipe Meneguzzi.
  - Rafael Cauê Cardoso,  PhD student on Computer Science/PUCRS, advised by Rafael Bordini.
  - Tulio Lima Basegio,  PhD student on Computer Science/PUCRS, advised by Rafael Bordini.
