@@ -45,7 +45,9 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
  - Renan Guedes Maidana, Master student on Computer Science/PUCRS, advised by Alexandre Amory, role: system localization, perception, integration to middleware.
  - Marcelo Paravisi, PhD student on Computer Science/PUCRS, advised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
  - Mateus Eugenio Colet, Master student on Computer Science/PUCRS, advised by Isabel Manssour, role: image-based obstacle detection for boats.
- - Guilherme  Villagran Barreto de Azevedo, Master student on Computer Science/PUCRS, advised by Felipe Meneguzzi. 
+ - Maurício Cecílio Magnaguagno, PhD student on Computer Science/PUCRS, advised by Felipe Meneguzzi, role: autonomous planning
+ - Rafael Cauê Cardoso, PhD student on Computer Science/PUCRS, advised by Rafael Bordini, role:  multiagent system
+ - Tulio Lima Basegio, PhD student on Computer Science/PUCRS, advised by Rafael Bordini, role:  multiagent system
 
 ## Papers
 
