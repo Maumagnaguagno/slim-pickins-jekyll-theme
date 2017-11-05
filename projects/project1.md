@@ -22,13 +22,13 @@ Combine the technology created in the other projects into a single system and cr
 
 ### Milestones
 
- - Milestone 1: Integrate Digital Elevation Map of Porto Alegre into the simulator; status (%)
- - Milestone 2: Model different types of agents (UAVs, USVs, response team) into the simulator; status (%)
- - Milestone 3: Integrate multi-agent framework into the simulation model; status (%)
- - Milestone 4: Integrate alert framework into the simulation model; status (%)
- - Milestone 5: Test flow alert --> planning --> agent action into the simulation model; status (%)
- - Milestone 6: Model different disaster scenarios; status (%)
- - Milestone 7: Field tests with different agents in using real robots under realistic scenarios; status (%)
+ - Milestone 1: Integrate Digital Elevation Map of Porto Alegre into the simulator; status (100%)
+ - Milestone 2: Model different types of agents (UAVs, USVs, response team) into the simulator; status (80%)
+ - Milestone 3: Integrate multi-agent framework into the simulation model; status (20%)
+ - Milestone 4: Integrate alert framework into the simulation model; status (0%)
+ - Milestone 5: Test flow alert --> planning --> agent action into the simulation model; status (10%)
+ - Milestone 6: Model different disaster scenarios; status (0%)
+ - Milestone 7: Field tests with different agents in using real robots under realistic scenarios; status (0%)
 
 ## People
 
@@ -46,6 +46,7 @@ Combine the technology created in the other projects into a single system and cr
 ### Students
 
  - Marcelo Paravisi, PhD student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
+ - Davi Henrique, PhD student UFRN, Adivised by LM Goançalves. role:  control theory;
 
 ## Papers
 
