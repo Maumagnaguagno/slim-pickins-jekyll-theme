@@ -71,14 +71,14 @@ permalink: /people/
     - **Degree**: PhD in Mechanic Engineering - UNICAMP
     - **Advisors**: Luiz Marcos Garcia Gonçalves
     - **Monography title**: 
-    - **Project(s)**: 
+    - **Project(s)**: [Autonomous Sail Boat](projects/project3.md);
     - **Conclusion date**:
     - **Papers**: NA
 2. [Vitor Augusto Machado Jorge](lattes.cnpq.br/3206235048453355)
     - **Degree**: PhD in Computing (SLAM) - UFRGS
     - **Advisors**: Alexandre de Morais Amory
     - **Monography title**: 
-    - **Project(s)**: 
+    - **Project(s)**: [Autonomous Boat](projects/project4.md);
     - **Conclusion date**:
     - **Papers**: NA
 3. [Roger Leitzke Granada](http://lattes.cnpq.br/8302681523696256)
@@ -121,16 +121,16 @@ permalink: /people/
     - **Papers**: NA
 1. [Petrúcio Ricardo Tavares de Medeiros](http://lattes.cnpq.br/0470168287417678)
     - **Degree**: PhD in Computer Engineering - UFRN
-    - **Advisors**: Luiz Marcos
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
     - **Monography title**: Renderização Multifoveada de Ambiente Sobrevoado
-    - **Project(s)**: Luiz Marcos Garcia Gonçalves
+    - **Project(s)**: [Autonomous UAV](projects/project5.md) 
     - **Conclusion date**: Jul/2020
     - **Papers**: NA
 1. [Davi Henrique dos Santos](http://lattes.cnpq.br/5492310878477548)
     - **Degree**: PhD in Computer Engineering - UFRN
     - **Advisors**: Luiz Marcos Garcia Gonçalves
     - **Monography title**: Sistema de navegação para veleiros robóticos
-    - **Project(s)**: 
+    - **Project(s)**: [Autonomous Sail Boat](projects/project3.md)
     - **Conclusion date**: Jul/2020
     - **Papers**: NA
     
@@ -156,13 +156,6 @@ permalink: /people/
     - **Monography title**: Formação de Times Mistos Robô-Humanos em Situações de Resgate em Desastres Naturais
     - **Project(s)**: [Planning for Agents](projects/project6.md)
     - **Conclusion date**: 
-    - **Papers**: NA
-1. [Guilherme Villagran Barreto de Azevedo](http://lattes.cnpq.br/8032574985840371)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Felipe Meneguzzi and Aurélio Salton
-    - **Monography title**: Symbolic-geometric planning for Non-Holonomic Robotics
-    - **Project(s)**: [Planning for Agents](projects/project6.md), [Autonomous Boat](projects/project4.md)
-    - **Conclusion date**: Mar/2018
     - **Papers**: NA
 1. [Anderson Nascimento](http://lattes.cnpq.br/2996534200073868)
     - **Degree**: Master in Computer Science - PUCRS
