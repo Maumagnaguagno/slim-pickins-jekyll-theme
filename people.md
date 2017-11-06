@@ -62,18 +62,37 @@ permalink: /people/
     - **Institution**: [Laboratório de Tratamento de Imagens e Geoprocessamento(LTIG)](http://www.pucrs.br/ffch/lab-geo/) - PPGEDUCEM/Física - PUCRS University;
     - **Project(s)**: [Poa Flooding](projects/project2.md);
     - **Papers**: NA
+1. [Justo Emilio Alvarez Jácobo](lattes.cnpq.br/6626922380758460)
+    - **Research subjects**: ;
+    - **Institution**: UFRN University;
+    - **Project(s)**: [Autonomous Sail Boat](projects/project3.md);
+    - **Papers**: NA
+1. [Andre Mauricio Cunha Campos](lattes.cnpq.br/7154508093406987)
+    - **Research subjects**: ;
+    - **Institution**: UFRN University;
+    - **Project(s)**: [Smart Water Sensors](projects/project8.md);
+    - **Papers**: NA
+1. [João Moreno Vilas Boas de Souza Silva](lattes.cnpq.br/8722766030280997)
+    - **Research subjects**: ;
+    - **Institution**: UFRN University;
+    - **Project(s)**: [Autonomous Sail Boat](projects/project3.md);
+    - **Papers**: NA
+1. [Rafael Beserra Gomes](http://lattes.cnpq.br/5849107545126304)
+    - **Research subjects**: ;
+    - **Institution**: UFRN University;
+    - **Project(s)**: [Mapping Drone](projects/project7.md);
+    - **Papers**: NA
+1. [Bruno Marques Ferreira da Silva](http://lattes.cnpq.br/7878437620254155)
+    - **Research subjects**: ;
+    - **Institution**: UFRN University;
+    - **Project(s)**: [Mapping Drone](projects/project7.md);
+    - **Papers**: NA
 
 ## Research Students
 
 ### Pos-Doc
 
-1. [Justo Emilio Alvarez Jácobo](lattes.cnpq.br/6626922380758460)
-    - **Degree**: PhD in Mechanic Engineering - UNICAMP
-    - **Advisors**: Luiz Marcos Garcia Gonçalves
-    - **Monography title**: 
-    - **Project(s)**: [Autonomous Sail Boat](projects/project3.md);
-    - **Conclusion date**:
-    - **Papers**: NA
+
 2. [Vitor Augusto Machado Jorge](lattes.cnpq.br/3206235048453355)
     - **Degree**: PhD in Computing (SLAM) - UFRGS
     - **Advisors**: Alexandre de Morais Amory
@@ -133,7 +152,43 @@ permalink: /people/
     - **Project(s)**: [Autonomous Sail Boat](projects/project3.md)
     - **Conclusion date**: Jul/2020
     - **Papers**: NA
-    
+1. [Andouglas Gonçalves da Silva Júnior](http://lattes.cnpq.br/2346181034036586)
+    - **Degree**: PhD in Computer Engineering - UFRN
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
+    - **Monography title**: 
+    - **Project(s)**: [Smart Water Sensors](projects/project8.md);
+    - **Conclusion date**: 
+    - **Papers**: NA
+1. [Álvaro Pinto Fernandes de Negreiros](http://lattes.cnpq.br/1359449865610489)
+    - **Degree**: MsC in Computer Engineering - UFRN
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
+    - **Monography title**: 
+    - **Project(s)**: [Autonomous Sail Boat](projects/project3.md)
+    - **Conclusion date**: 
+    - **Papers**: NA
+1. [Luis Enrique Ortiz Fernandez](http://lattes.cnpq.br/3725377549115537)
+    - **Degree**: PhD in Computer Engineering - UFRN
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
+    - **Monography title**: 
+    - **Project(s)**: [Autonomous VANT](projects/project5.md)
+    - **Conclusion date**: 
+    - **Papers**: NA
+1. [Elizabeth Viviana Cabrera Avila](http://lattes.cnpq.br/5999613830368563)
+    - **Degree**: PhD in Computer Engineering - UFRN
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
+    - **Monography title**: 
+    - **Project(s)**: [Mapping Drone](projects/project7.md);
+    - **Conclusion date**: 
+    - **Papers**: NA
+1. [Leonardo Angelo Virgínio de Souto](http://lattes.cnpq.br/7947681999420065)
+    - **Degree**: PhD in Computer Engineering - UFRN
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
+    - **Monography title**: 
+    - **Project(s)**: [Mapping Drone](projects/project7.md);
+    - **Conclusion date**: 
+    - **Papers**: NA
+
+
 ### Master
 
 1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
