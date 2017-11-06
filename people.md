@@ -243,14 +243,14 @@ permalink: /people/
     
 ### Undergraduate
 
-1. [Carlisson Thomaz](http://lattes.cnpq.br/1127283294820193)
+1. [Guilherme Carlos Catilhos da Silva](http://lattes.cnpq.br/2551972548783666)
     - **Degree**: Undergradute student in Geography - PUCRS
     - **Advisors**: Regis Lahm
     - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
     - **Project(s)**: [Poa Flooding](projects/project2.md)
     - **Conclusion date**: 
     - **Papers**: NA
-1. [Alice Maura Dias](http://lattes.cnpq.br/3168851231239141)
+1. [Samuel do Nascimento Campos](http://lattes.cnpq.br/1374834332083009)
     - **Degree**: Undergradute student in Geography - PUCRS
     - **Advisors**: Regis Lahm
     - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
