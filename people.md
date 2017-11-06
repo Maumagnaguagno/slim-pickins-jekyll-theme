@@ -159,13 +159,6 @@ permalink: /people/
     - **Project(s)**: [Smart Water Sensors](projects/project8.md);
     - **Conclusion date**: 
     - **Papers**: NA
-1. [Álvaro Pinto Fernandes de Negreiros](http://lattes.cnpq.br/1359449865610489)
-    - **Degree**: MsC in Computer Engineering - UFRN
-    - **Advisors**: Luiz Marcos Garcia Gonçalves
-    - **Monography title**: 
-    - **Project(s)**: [Autonomous Sail Boat](projects/project3.md)
-    - **Conclusion date**: 
-    - **Papers**: NA
 1. [Luis Enrique Ortiz Fernandez](http://lattes.cnpq.br/3725377549115537)
     - **Degree**: PhD in Computer Engineering - UFRN
     - **Advisors**: Luiz Marcos Garcia Gonçalves
@@ -239,6 +232,13 @@ permalink: /people/
     - **Monography title**: Coordenação de VANTS considerando consumo de energia
     - **Project(s)**: [Planning for Agents](projects/project6.md), [Autonomous UAV](projects/project5.md)
     - **Conclusion date**: Mar/2018
+    - **Papers**: NA
+1. [Álvaro Pinto Fernandes de Negreiros](http://lattes.cnpq.br/1359449865610489)
+    - **Degree**: Master in Computer Engineering - UFRN
+    - **Advisors**: Luiz Marcos Garcia Gonçalves
+    - **Monography title**: 
+    - **Project(s)**: [Autonomous Sail Boat](projects/project3.md)
+    - **Conclusion date**: 
     - **Papers**: NA
     
 ### Undergraduate
