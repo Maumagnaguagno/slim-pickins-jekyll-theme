@@ -16,6 +16,7 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
 ### Goals
 
  - Goal 1: MAS platform to coordinate distributed UAV using radio for communication. The coordination is based on JaCaMo tools.
+ - Goal 2: Model areas to asses the risk of landslide 
 
 
 ### Milestones
@@ -28,12 +29,12 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
 ### Coordinator
 
  - Luiz Marcos, UFRN.
- - [Jomi Hübner](http://jomi.das.ufsc.br), UFSC.
- - Mario Reiss, UFRGS.
+ - [Jomi Hübner](http://jomi.das.ufsc.br), UFSC, associated to Goal 1.
+ - [Mario Reiss](https://www.ufrgs.br/lafoto/), UFRGS, associated to Goal 2.
 
-### Academic Collaborators
+### Collaborators
 
- - name, university, main role, links.
+ - [Márcio Roberto Magalhães de Andrade](http://lattes.cnpq.br/4500089773487570), [CEMADEN](http://www.cemaden.gov.br/author/marcio/), Evaluating landslide risk in Blumenau using UAVs, associated to Goal 2.
 
 ### Students
 

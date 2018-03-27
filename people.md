@@ -180,17 +180,17 @@ permalink: /people/
     - **Project(s)**: [Mapping Drone](projects/project7.md);
     - **Conclusion date**: 
     - **Papers**: NA
-
+1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
+    - **Degree**: Phd in Computer Science - PUCRS
+    - **Advisors**: Alexandre Amory and Aurélio Salton
+    - **Monography title**: Self managment system for autonomous robots
+    - **Project(s)**: [Autonomous Boat](projects/project4.md)
+    - **Conclusion date**: Jan/2022
+    - **Papers**: NA
 
 ### Master
 
-1. [Renan Guedes Maidana](http://lattes.cnpq.br/0303636209545734)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Alexandre Amory and Aurélio Salton
-    - **Monography title**: Sistema modular de localização e percepção de barcos autônomos
-    - **Project(s)**: [Autonomous Boat](projects/project4.md)
-    - **Conclusion date**: Jan/2018
-    - **Papers**: NA
+
 1. [Vagner Macedo Martins](http://lattes.cnpq.br/3353898327493243)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
@@ -260,4 +260,11 @@ permalink: /people/
 
 ## Main Collaborators
 
-- NA
+1. [Márcio Roberto Magalhães de Andrade](http://lattes.cnpq.br/4500089773487570)
+    - **Degree**: Phd in Geography - USP
+    - **Filiation**: [CEMADEN](http://www.cemaden.gov.br/author/marcio/)
+    - **Topic**: Evaluating landslide risk in Blumenau using UAVs
+    - **Project(s)**: [Autonomous UAV](projects/project5.md);
+    - **Papers**: NA
+
+
