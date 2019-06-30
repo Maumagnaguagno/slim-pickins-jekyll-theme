@@ -96,17 +96,22 @@ permalink: /people/
 2. [Vitor Augusto Machado Jorge](lattes.cnpq.br/3206235048453355)
     - **Degree**: PhD in Computing (SLAM) - UFRGS
     - **Advisors**: Alexandre de Morais Amory
-    - **Monography title**: 
     - **Project(s)**: [Autonomous Boat](projects/project4.md);
-    - **Conclusion date**:
+    - **Conclusion date**: Jan/2019
     - **Papers**: NA
 3. [Roger Leitzke Granada](http://lattes.cnpq.br/8302681523696256)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Alexandre de Morais Amory
-    - **Monography title**: 
     - **Project(s)**: [Autonomous Boat](projects/project4.md);
     - **Conclusion date**:
     - **Papers**: NA
+2. [Guilherme Heck](http://lattes.cnpq.br/6819197962067492)
+    - **Degree**: PhD in Computer Science - PUCRS
+    - **Advisors**: Alexandre de Morais Amory
+    - **Project(s)**: [Autonomous Boat](projects/project4.md);
+    - **Conclusion date**: May/2019
+    - **Papers**: NA       
+    
 
 ### PhD
 

@@ -33,10 +33,11 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
 
 ### Coordinator
 
- - Alexandre Amory and Felipe Meneguzzi, PUCRS.
+ - Alexandre Amory, PUCRS.
 
 ### Academic Collaborators
 
+ - Felipe Meneguzzi, PUCRS
  - Rafael Bordini, PUCRS.
  - Isabel Manssour, PUCRS.
 
@@ -51,11 +52,39 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
 
 ## Papers
 
- - title and link. full bibio data is already available at ...
+    @Article{s19051068,
+    AUTHOR = {Paravisi, Marcelo and H. Santos, Davi and Jorge, Vitor and Heck, Guilherme and Gonçalves, Luiz Marcos and Alexandre M. Amory},
+    TITLE = {Unmanned Surface Vehicle Simulator with Realistic Environmental Disturbances},
+    JOURNAL = {Sensors},
+    VOLUME = {19},
+    YEAR = {2019},
+    NUMBER = {5},
+    ARTICLE-NUMBER = {1068},
+    URL = {http://www.mdpi.com/1424-8220/19/5/1068},
+    ISSN = {1424-8220},
+    DOI = {10.3390/s19051068}
+    }
+
+
+
+    @Article{s19030702,
+    AUTHOR = {Jorge, Vitor A. M. and Granada, Roger and Maidana, Renan G. and Jurak, Darlan A. and Heck, Guilherme and Negreiros, Alvaro P. F. and dos Santos, Davi H. and Gonçalves, Luiz M. G. and Alexandre M. Amory},
+    TITLE = {A Survey on Unmanned Surface Vehicles for Disaster Robotics: Main Challenges and Directions},
+    JOURNAL = {Sensors},
+    VOLUME = {19},
+    YEAR = {2019},
+    NUMBER = {3},
+    ARTICLE-NUMBER = {702},
+    URL = {http://www.mdpi.com/1424-8220/19/3/702},
+    ISSN = {1424-8220},
+    DOI = {10.3390/s19030702}
+    }
+
 
 ## Repositories
 
  - links to public repositories.
+ - [USV Sim repository](https://github.com/disaster-robotics-proalertas/usv_sim_lsa)
 
 ## Main Hardware Resources
 
@@ -68,4 +97,7 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
 ## Media 
 
 videos and photos.
+
+ - [Field testing photos](https://photos.app.goo.gl/ZhbJEg3256ofCSdE9)
+ - [USV Sim demo](https://www.youtube.com/watch?v=u-JnylVnD9I&list=PLecI7jQbTC3zhiwq5m1YmNKtYsZMgFjkX). A Gazebo-based simulation with wind and water current.
 

@@ -42,7 +42,41 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
 
 ## Papers
 
- - title and link. full bibio data is already available at ...
+    @Article{isprs-archives-XLII-2-W13-567-2019,
+    AUTHOR = {Reiss, M. L. L. and Mendes, T. S. G. and Andrade, M. R. M. and Amory, A. M. and de Lara, R. and Souza, S. F.},
+    TITLE = {RPAS IN THE SUPPORT FOR PHOTOGRAMMETRY EDUCATION: CASES IN TOPOGRAPHIC MAPPING AND DOCUMENTATION OF HISTORICAL MONUMENTS},
+    JOURNAL = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+    VOLUME = {XLII-2/W13},
+    YEAR = {2019},
+    PAGES = {567--574},
+    URL = {https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/567/2019/},
+    DOI = {10.5194/isprs-archives-XLII-2-W13-567-2019}
+    }
+    
+    @inproceedings{menegol18b,
+        Author = {Marcelo Souza Menegol and Jomi Fred H\"ubner and Leandro Buss Becker},
+        Booktitle = {Proc. of 16th International Conference International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2018)},
+        Doi = {10.1007/978-3-319-94580-4_33},
+        Editor = {Yves Demazeau and Bo AnJavier Bajo and Antonio Fern{\'a}ndez-Caballero},
+        Pages = {335-338},
+        Series = {LNCS},
+        Title = {Coordinated {UAV} Search and Rescue Application with {JaCaMo}},
+        Volume = {10978},
+        Year = {2018}}
+
+
+    @inproceedings{menegol18a,
+        Author = {Marcelo Souza Menegol and Jomi Fred H\"ubner and Leandro Buss Becker},
+        Booktitle = {Proc. of 16th International Conference International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS 2018)},
+        Doi = {10.1007/978-3-319-94580-4_17},
+        Editor = {Yves Demazeau and Bo AnJavier Bajo and Antonio Fern{\'a}ndez-Caballero},
+        Pages = {212-223},
+        Series = {LNCS},
+        Title = {Evaluation of Multi-Agent Coordination on Embedded Systems},
+        Volume = {10978},
+        Year = {2018}}
+
+    
 
 ## Repositories
 
