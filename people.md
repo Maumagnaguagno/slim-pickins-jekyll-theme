@@ -118,7 +118,7 @@ permalink: /people/
 1. [Marcelo Paravisi](http://lattes.cnpq.br/3396118494502209)
     - **Degree**: PhD in Computer Science - PUCRS
     - **Advisors**: Alexandre Amory
-    - **Monography title**: Navegação de barcos autônomos
+    - **Monography title**: Um Simulador Robótico para Inundações Considerando Distúrbios Ambientais
     - **Project(s)**: [Autonomous Boat](projects/project4.md), [Autonomous Sail Boat](projects/project3.md), [Master Project](projects/project1.md);
     - **Conclusion date**: Jul/2020
     - **Papers**: NA
@@ -196,17 +196,10 @@ permalink: /people/
 ### Master
 
 
-1. [Vagner Macedo Martins](http://lattes.cnpq.br/3353898327493243)
-    - **Degree**: Master in Computer Science - PUCRS
-    - **Advisors**: Alexandre Amory
-    - **Monography title**: Previsão de alagamento urbano baseados em dados de redes sociais
-    - **Project(s)**: [Poa Flooding](projects/project2.md)
-    - **Conclusion date**: Aug/2018
-    - **Papers**: NA
 1. [Tabajara Krausburg Rodrigues](http://lattes.cnpq.br/5382334937056578)
     - **Degree**: Master in Computer Science - PUCRS
     - **Advisors**: Rafael Bordini
-    - **Monography title**: Formação de Times Mistos Robô-Humanos em Situações de Resgate em Desastres Naturais
+    - **Monography title**: Constrained Coalition Formation Among Heterogeneous Agents for the Multi-agent Programming Contest
     - **Project(s)**: [Planning for Agents](projects/project6.md)
     - **Conclusion date**: 
     - **Papers**: NA
@@ -248,6 +241,13 @@ permalink: /people/
     
 ### Undergraduate
 
+1. [Igor de Souza Azevedo](http://lattes.cnpq.br/7915554198308070)
+    - **Degree**: Undergradute student in Computer Engineering - PUCRS
+    - **Advisors**: Alexandre Amory
+    - **Monography title**: Sistema de comunicação de rádio para barcos autônomos.
+    - **Project(s)**: [Autonomous Boat](projects/project4.md)
+    - **Conclusion date**: 2019
+    - **Papers**: NA
 1. [Carlisson Thomaz](http://lattes.cnpq.br/1127283294820193)
     - **Degree**: Undergradute student in Geography - PUCRS
     - **Advisors**: Regis Lahm
