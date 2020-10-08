@@ -38,7 +38,10 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
 
 ### Students
 
- - Marcelo Menegol, UFSC, master student. Allocated to Goal 1.
+ - Fernando Rodrigues Santos. AVALIAÇÃO DO USO DE AGENTES NO DESENVOLVIMENTO DE APLICAÇÕES COM VEÍCULOS AÉREOS NÃO- TRIPULADOS. 2015. - UFSC. Orientador: Jomi Fred Hübner.
+ - Marcelo Sousa Menegol. Multi-Agent Coordination Applied to UAVS. 2018. Mestrado em Engenharia de Automação e Sistemas - UFSC. Orientador: Jomi Fred Hübner.
+ - Gustavo Rezende Silva. ACTIVE PERCEPTION WITHIN BDI AGENTS REASONING CYCLE WITH APPLICATIONS IN MOBILE ROBOTS  - UFSC. Orientador: Jomi Fred Hübner.
+
 
 ## Papers
 
@@ -92,5 +95,6 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
 
 ## Media 
 
- - [video](https://www.youtube.com/watch?v=FcS4QDtrBCI&feature=youtu.be) with a single UAV controlled by an embedded JaCaMo agent.
+ - [youtube](https://www.youtube.com/watch?v=FcS4QDtrBCI) A single UAV controlled by an embedded JaCaMo agent.
+ - [youtube](https://www.youtube.com/watch?v=EoVd2ZPDw-M) Simulation of search and rescue with drones.
 
