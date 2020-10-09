@@ -44,7 +44,9 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
 ### Students
 
  - Renan Guedes Maidana, Master student on Computer Science/PUCRS, advised by Alexandre Amory, role: system localization, perception, integration to middleware.
- - Marcelo Paravisi, PhD student on Computer Science/PUCRS, advised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
+ - Darlan Jurak, Master in Computer Science/PUCRS, advised by Alexandre Amory, role: obstacle avoidance and path planning.
+ - Marcelo Paravisi, PhD in Computer Science/PUCRS, advised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
+ - Igor de Souza Azevedo, undergraduate student in Computer Engineering/PUCRS, advised by Alexandre Amory, role: wuater quality sensors and LORA network.
  - Mateus Eugenio Colet, Master student on Computer Science/PUCRS, advised by Isabel Manssour, role: image-based obstacle detection for boats.
  - Maurício Cecílio Magnaguagno, PhD student on Computer Science/PUCRS, advised by Felipe Meneguzzi, role: autonomous planning
  - Rafael Cauê Cardoso, PhD student on Computer Science/PUCRS, advised by Rafael Bordini, role:  multiagent system
@@ -83,14 +85,17 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
 
 ## Repositories
 
- - links to public repositories.
+ - [USVs ROS-based code](https://github.com/disaster-robotics-proalertas/awa-sv): this repository has the entire code required in the boat`s computers;
  - [USV Sim repository](https://github.com/disaster-robotics-proalertas/usv_sim_lsa)
 
 ## Main Hardware Resources
 
  - [Lutra airboat by Platypus LLC](http://senseplatypus.com/lutra-airboat/). Two units acquired via PVE Project XXX, coordinated by Felipe Meneguzzi.
- - Zed Camera
- - Jetson board by NVIDIA
+ - 2x Vision module with Zed Camera and Jetson board by NVIDIA
+ - 3x Vision module with Raspbery Pi Zero and Raspicam
+ - [Lowrance Elite 5-TI side-scanner](https://github.com/disaster-robotics-proalertas/ros_nmea_depth) for bathymetry surveys
+ - 3x [water quality modules](https://github.com/disaster-robotics-proalertas/atlas_ros)
+ - [Water sampler](https://github.com/disaster-robotics-proalertas/water_sampler_ros)
  - Maxbotix ultrasonic sensors
  
 
@@ -100,4 +105,10 @@ videos and photos.
 
  - [Field testing photos](https://photos.app.goo.gl/ZhbJEg3256ofCSdE9)
  - [USV Sim demo](https://www.youtube.com/watch?v=u-JnylVnD9I&list=PLecI7jQbTC3zhiwq5m1YmNKtYsZMgFjkX). A Gazebo-based simulation with wind and water current.
+
+![Alt text](../images/projects/diff-water-sampler.png?raw=true "Lutra prop plus water sampler")
+![Alt text](../images/projects/team-boath-boats.png?raw=true "Team and two boats in a field testing trip")
+![Alt text](../images/projects/diluvio.png?raw=true "Boat in the Diluvio river")
+![Alt text](../images/projects/testing-guaiba.png?raw=true "Boat in the Guaiba")
+
 
