@@ -26,7 +26,7 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
 
 ## People
 
-### Coordinator
+### Coordinators
 
  - Luiz Marcos, UFRN.
  - [Jomi Hübner](http://jomi.das.ufsc.br), UFSC, associated to Goal 1.
@@ -99,10 +99,10 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
 ### PUCRS UAV
  - [Raspberry Pi 4](https://beagleboard.org/black)
  - [Navio2 autopilot](https://cdn.emlid.com/navio/)
- - FrSky 2.4GHz ACCST TARANIS X9D PLUS
- - SK450 Quad Copter
- - SK550 Hexa Copter
- - Tarot 680 Hexa Copter
+ - [FrSky 2.4GHz ACCST TARANIS X9D PLUS](https://pt.aliexpress.com/item/4001207001021.html)
+ - [F450 Quad Copter](https://pt.aliexpress.com/item/4000452051294.html)
+ - [S550 Hexa Copter](https://pt.aliexpress.com/item/32460155738.html)
+ - [Tarot 680 Hexa Copter](https://pt.aliexpress.com/item/1583509995.html)
 
 
 ## Media 

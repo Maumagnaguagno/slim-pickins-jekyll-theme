@@ -17,23 +17,13 @@ A prototype of the multi-agent planner is already in testing, and a demonstratio
 | --- | --- | 
 | ![AI](../images/icons/ia.png "AI") |  ![planning](../images/icons/planning.png "planning") | 
 
-### Goals
-
- - Goal 1: brief description
-
-### Milestones
-
- - Milestone 1: brief description; status (%)
 
 ## People
 
-### Coordinator
+### Coordinators
  - Rafael Bordini, PUCRS.
  - Felipe Meneguzzi, PUCRS.
  - Jomi Hübner, UFSC.
-
-### Academic Collaborators
- - Alexandre Amory
 
 ### Students
 

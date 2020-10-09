@@ -38,25 +38,19 @@ Combine the technology created in the other projects into a single system and cr
 
 ### Academic Collaborators
 
+ - Luiz Marcos, DCA/UFRN.
  - Felipe Meneguzzi, MIR/FACIN/PUCRS.
  - Rafael Bordini, SMART/FACIN/PUCRS.
- - Luiz Marcos, DCA/UFRN.
- - ???
-
-### Students
-
- - Marcelo Paravisi, PhD student on Computer Science/PUCRS, Adivised by Alexandre Amory, role: system simulation, path planning, integration to middleware.
- - Davi Henrique, PhD student UFRN, Adivised by LM Goançalves. role:  control theory;
 
 ## Papers
 
- - title and link. full bibio data is already available at ...
+ - A Survey on Unmanned Surface Vehicles for Disaster Robotics: Main Challenges and Directions. Jorge, V.; Granada, R.; Maidana, R.; Jurak, D. A.; Heck, G.; Negreiros, A. P. F.; dos Santos, D. H.; Gonçalves, L. M. G.; and Amory, A. Sensors, 19(3). 2019.
 
 ## Repositories
 
- - links to public repositories.
+ - check the link to the other sub-projects to access the source codes;
 
 ## Media 
 
-videos and photos.
+ - check the link to the other sub-projects to access videos and photos.
 

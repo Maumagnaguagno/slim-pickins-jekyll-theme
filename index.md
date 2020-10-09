@@ -22,9 +22,8 @@ The figure below shows an overview of the system using two agents (UAV and USV) 
 - monitoring infrastructure for distaster prevention 
 - robotic disaster response team
 
-## Interested students:
-
-Undergraduate, master, phd, pos-doc positions are available. Interested students must send CV to one of the coordinators/collaborators.  
+## Project Period:
+- 2016-2020 
 
 <table width="70%" align="center" cellspacing="7" cellpadding="7"> 
 <tr> 
