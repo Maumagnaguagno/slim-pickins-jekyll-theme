@@ -31,10 +31,12 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
  - Luiz Marcos, UFRN.
  - [Jomi Hübner](http://jomi.das.ufsc.br), UFSC, associated to Goal 1.
  - [Mario Reiss](https://www.ufrgs.br/lafoto/), UFRGS, associated to Goal 2.
+ - Alexandre Amory, PUCRS.
 
 ### Collaborators
 
  - [Márcio Roberto Magalhães de Andrade](http://lattes.cnpq.br/4500089773487570), [CEMADEN](http://www.cemaden.gov.br/author/marcio/), Evaluating landslide risk in Blumenau using UAVs, associated to Goal 2.
+ - [DragronFly drones](http://www.dragonflydrones.com.br/)
 
 ### Students
 
@@ -93,8 +95,20 @@ Mobile robots not rarely engage in exploration-like missions, that has the goal 
  - WiFi module ESP8266
  - SK450 Quad Copter
 
+
+### PUCRS UAV
+ - [Raspberry Pi 4](https://beagleboard.org/black)
+ - [Navio2 autopilot](https://cdn.emlid.com/navio/)
+ - FrSky 2.4GHz ACCST TARANIS X9D PLUS
+ - SK450 Quad Copter
+ - SK550 Hexa Copter
+ - Tarot 680 Hexa Copter
+
+
 ## Media 
 
  - [youtube](https://www.youtube.com/watch?v=FcS4QDtrBCI) A single UAV controlled by an embedded JaCaMo agent.
  - [youtube](https://www.youtube.com/watch?v=EoVd2ZPDw-M) Simulation of search and rescue with drones.
 
+![Alt text](../images/projects/drone-pucrs-1.png?raw=true "testing drones at PUCRS")
+![Alt text](../images/projects/drone-pucrs-2.png?raw=true "testing drones at PUCRS")
