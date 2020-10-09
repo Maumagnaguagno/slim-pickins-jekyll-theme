@@ -112,7 +112,7 @@ videos and photos.
  - [Field testing photos](https://photos.app.goo.gl/ZhbJEg3256ofCSdE9)
  - [USV Sim demo](https://www.youtube.com/watch?v=u-JnylVnD9I&list=PLecI7jQbTC3zhiwq5m1YmNKtYsZMgFjkX). A Gazebo-based simulation with wind and water current.
 
-![Alt text](../images/projects/diff-water-sampler.png?raw=true "Lutra prop plus water sampler")
+![Alt text](../images/projects/water-sampler-diff-github.png?raw=true "Lutra prop plus water sampler")
 ![Alt text](../images/projects/team-boath-boats.png?raw=true "Team and two boats in a field testing trip")
 ![Alt text](../images/projects/diluvio.png?raw=true "Boat in the Diluvio river")
 ![Alt text](../images/projects/testing-guaiba.png?raw=true "Boat in the Guaiba")
