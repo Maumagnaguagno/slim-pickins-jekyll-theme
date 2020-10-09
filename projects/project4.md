@@ -41,6 +41,12 @@ Small autonomous boat to monitor shallow streams of water and small/medium river
  - Rafael Bordini, PUCRS.
  - Isabel Manssour, PUCRS.
 
+### Technical Staff
+
+ - Guilherme Heck, advised by Alexandre Amory, role: boat testing, wireless communication, sensor integration.
+ - Roger Granada, advised by Alexandre Amory, role: computer vision for the boats.
+ - Vitor Jorge, advised by Alexandre Amory.
+
 ### Students
 
  - Renan Guedes Maidana, Master student on Computer Science/PUCRS, advised by Alexandre Amory, role: system localization, perception, integration to middleware.
