@@ -111,6 +111,7 @@ videos and photos.
 
  - [Field testing photos](https://photos.app.goo.gl/ZhbJEg3256ofCSdE9)
  - [USV Sim demo](https://www.youtube.com/watch?v=u-JnylVnD9I&list=PLecI7jQbTC3zhiwq5m1YmNKtYsZMgFjkX). A Gazebo-based simulation with wind and water current.
+ - [Integrantes do LSA realizam testes de barcos robóticos autônomos em Rio Grande](https://www.pucrs.br/politecnica/2019/11/14/integrantes-do-lsa-realizam-testes-de-barcos-roboticos-autonomos-em-rio-grande/). Nov/2019.
 
 ![Alt text](../images/projects/water-sampler-diff-github.png?raw=true "Lutra prop plus water sampler")
 ![Alt text](../images/projects/team-both-boats.png?raw=true "Team and two boats in a field testing trip")
